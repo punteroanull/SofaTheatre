@@ -1,5 +1,5 @@
 # SofaTheatre
-To download my movies &amp; tv shows without supervision
+To track movies &amp; tv shows without supervision
 
 # Sources for TV & Movies
 https://www.themoviedb.org/documentation/api
